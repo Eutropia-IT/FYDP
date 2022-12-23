@@ -1,6 +1,15 @@
-# FYDP
-Final Year Design Project
-
+<h1 align="center">Daily Life Conversation in Bangla Sign Language using Machine Learning Techniques</h1>
+<p align= "justify">
+A Thesis Submitted in Partial Fulfillment of the Requirements for the Degree of <b>Bachelor of Science in Computer Science and Engineering</b> of the <b>University of Asia Pacific</b>
+</p>
+<ul>
+  <li>Tahmid Anam</li>
+  <li>Mirza Md. Shakil</li>
+  <li>Al Amin</li>
+</ul>
+<h3><b>Supervised by: </b> <br></h3>
+Molla Rashied Hussein <br>
+Assistant Professor, University of Asia Pacific
 <h1 align="center">Abstract</h1>
 <p align= "justify">
 Creating a system that uses video data to recognize a person’s sign gestures for Bangla sign language (BSL), and translate it into corresponding text and speech in real-time to  acquire the goal of establishing two-way communication using machine learning techniques. The translated sign language gesture will be acquired in the text which is further converted into audio and vice versa. To enable the detection of gestures, we  made use of the “Long short-term memory (LSTM)” algorithm. As language is a vast area that includes an ocean of words, we first target to recognize sign gestures and translate them. To establish the two-way communication system we can use existing studies of text-to-speech and voice recognition and NLP research for implementing the full system. LSTM is used for long-term dependencies and sequence predictions. We have used around 9000 video data for training our model. 
